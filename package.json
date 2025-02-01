@@ -1,0 +1,20 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "this is namaste react class from akshay saini",
+  "keywords": [
+    "react",
+    "namaste",
+    "react",
+    "akshay",
+    "saini",
+    "javascript"
+  ],
+  "license": "ISC",
+  "author": "akhilesh",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  }
+}
