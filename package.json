@@ -2,19 +2,32 @@
   "name": "namastereact",
   "version": "1.0.0",
   "description": "this is namaste react class from akshay saini",
-  "keywords": [
-    "react",
-    "namaste",
-    "react",
-    "akshay",
-    "saini",
-    "javascript"
-  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akhilesh664/Namaste-React.git"
+  },
+  "keywords": [],
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akhilesh664/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/Akhilesh664/Namaste-React#readme",
   "author": "akhilesh",
   "type": "commonjs",
-  "main": "app.js",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
-  }
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browsersList":[
+    "last 2 versions"
+  ]
 }
